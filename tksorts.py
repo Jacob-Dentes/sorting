@@ -9,7 +9,7 @@ import random
 import tkinter as tk
 import time
 
-list_sizes = (100,250)
+list_sizes = (50,100)
 window_size = (1280,720)
 UPDATE_TIME = 30
 BACKGROUND_COLOR = '#212121'
